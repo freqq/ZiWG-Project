@@ -5,10 +5,10 @@ import os
 
 import pandas as pd
 
-csv_files_path = "../data/csv/*.csv"
+CSV_FILES_PATH = "../data/csv/*.csv"
 
 def main():
-    files = glob.glob(csv_files_path)
+    files = glob.glob(CSV_FILES_PATH)
     for file in files:
         print('Processing file: ' + os.path.basename(file))
         data_file = pd.read_csv(file)

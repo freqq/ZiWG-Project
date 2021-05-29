@@ -44,7 +44,8 @@ def main():
                                  extent, dimensions, subject, inclusion_date,
                                  source, library, notes])
                 
-                print('Processed ' +  str(i) + ' record.')
+                if i % 100 == 0:
+                    print('Processed ' +  str(i) + ' records.')
 
 def clean_title(title):
     title = title.lower()
