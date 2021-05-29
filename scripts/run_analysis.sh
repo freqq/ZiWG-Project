@@ -51,4 +51,4 @@ function main() {
     log_info "Analysis finished."
 }
 
-main
+time main

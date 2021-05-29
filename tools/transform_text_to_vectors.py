@@ -12,6 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy.sparse import csr_matrix
 
 REMOVED_DUPLICATES_CSV_FILES_PATH = "../data/removed_duplicates/*.csv"
+RESULT_CSV_FILES_PATH = "../data/result/"
 TFIDF_VECTORIZER = TfidfVectorizer(ngram_range=(1, 2), max_df=0.9, min_df=5, token_pattern=r'(\S+)')
 SIMILARITY_SCORE = 'similairity_score'
 MAX_SIMILARITY_SCORE = 0.9999
@@ -51,13 +52,17 @@ def analyze_file(file):
     print("Finished getting matches DataFrame in: ", end_time)
 
     # Remove all matches outside similarity threshold -> final DataFrame
-    final_data_frame = matches_df[matches_df[SIMILARITY_SCORE] > MIN_SIMILARITY_SCORE]
-    final_data_frame = matches_df[matches_df[SIMILARITY_SCORE] < MAX_SIMILARITY_SCORE]
+    final_data_frame_min = matches_df[matches_df[SIMILARITY_SCORE] > MIN_SIMILARITY_SCORE]
+    final_data_frame = final_data_frame_min[matches_df[SIMILARITY_SCORE] < MAX_SIMILARITY_SCORE]
 
-    # Getting top 10 matches
-    top_10_matches = final_data_frame.sort_values(by=SIMILARITY_SCORE, ascending=False).head(10)
+    # Sort values in DataFrame by similarity_score
+    sorted_final_df = final_data_frame.sort_values(by=SIMILARITY_SCORE, ascending=False)
+
+    # Save final DataFrame to CSV
+    sorted_final_df.to_csv(path_or_buf=RESULT_CSV_FILES_PATH + os.path.basename(file).split('.')[0] + ".csv")
 
     # Saving top 10 matches as png file
+    top_10_matches = sorted_final_df.head(10)
     save_table_image(top_10_matches, os.path.basename(file).split('.')[0])
 
 
