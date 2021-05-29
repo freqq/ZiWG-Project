@@ -14,6 +14,8 @@ from scipy.sparse import csr_matrix
 CSV_FILES_PATH = "../data/csv/*.csv"
 TFIDF_VECTORIZER= TfidfVectorizer(ngram_range=(1,2), max_df=0.9, min_df=5, token_pattern='(\S+)')
 SIMILARITY_SCORE = 'similairity_score'
+MAX_SIMILARITY_SCORE = 0.9999
+MIN_SIMILARITY_SCORE = 0.9
 
 def main():
     files = glob.glob(CSV_FILES_PATH)
@@ -38,15 +40,16 @@ def main():
 
         # Getting matches DataFrame
         start_time = time.time()
-        matches_df = get_matches_df(matches, df['title'], top=3000)
+        matches_df = get_matches_df(matches, df['title'], df['isbn'], top=3000)
         end_time = time.time() - start_time
         print("Finished getting matches DataFrame in: ", end_time)
 
-        # Remove all exact matches - final DataFrame
-        matches_df = matches_df[matches_df[SIMILARITY_SCORE] < 0.99999]
-        
+        # Remove all matches outside similarity threshold -> final DataFrame
+        final_data_frame = matches_df[matches_df[SIMILARITY_SCORE] > MIN_SIMILARITY_SCORE]
+        final_data_frame = matches_df[matches_df[SIMILARITY_SCORE] < MAX_SIMILARITY_SCORE]
+    
         # Getting top 10 matches
-        top_10_matches = matches_df.sort_values(by=SIMILARITY_SCORE, ascending=False).head(10)
+        top_10_matches = final_data_frame.sort_values(by=SIMILARITY_SCORE, ascending=False).head(10)
         
         # Saving top 10 matches as png file
         save_table_image(top_10_matches, os.path.basename(file).split('.')[0])
@@ -77,7 +80,7 @@ def cosine_similarity(A, B, ntop, lower_bound=0):
             indptr, indices, data)
     return csr_matrix((data,indices,indptr),shape=(M,N))
 
-def get_matches_df(sparse_matrix, name_vector, top=100):
+def get_matches_df(sparse_matrix, name_vector, isbn, top=100):
     non_zeros = sparse_matrix.nonzero()
     
     sparserows = non_zeros[0]
@@ -93,13 +96,19 @@ def get_matches_df(sparse_matrix, name_vector, top=100):
     similairity = np.zeros(nr_matches)
     
     for index in range(0, nr_matches):
-        left_side[index] = name_vector[sparserows[index]]
-        right_side[index] = name_vector[sparsecols[index]]
+        left_side[index] = name_vector[sparserows[index]] + " ; " + get_isbn_value(isbn[sparserows[index]])
+        right_side[index] = name_vector[sparsecols[index]] + " ; " + get_isbn_value(isbn[sparserows[index]])
         similairity[index] = sparse_matrix.data[index]
     
-    return pd.DataFrame({'Title': left_side,
-                          'Similar_title': right_side,
+    return pd.DataFrame({'First entry (Title + ISBN)': left_side,
+                          'Second entry (Title + ISBN)': right_side,
                            SIMILARITY_SCORE: similairity})
+    
+def get_isbn_value(isbn):
+    return '-' if is_nan(isbn) else str(isbn)
+    
+def is_nan(string):
+    return string != string
     
 def save_table_image(data_frame, file_name):
     df_styled = data_frame.style.background_gradient()
