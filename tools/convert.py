@@ -5,10 +5,11 @@ Code was modified to make it work with python3
 """
 import csv
 import os
+import re
 
 from pymarc import MARCReader
 
-chars_to_remove = ['[', ']', '.', ',', ';', ':', '/', '"']
+CHARS_TO_REMOVE = re.compile('[\n\"\'/(){}\[\]\[]|@,.;:"#]')
 
 def main():
     """ Main function
@@ -50,14 +51,15 @@ def clean_title(title):
     title = remove_stop_words(title)
     title = clean_marks(title)
     title = remove_unwanted_characters(title)
+    title = remove_multiple_spaces(title)
 
     return title
 
 def remove_unwanted_characters(text):
-    for character in chars_to_remove:
-        text = text.replace(character, '')
+    return re.sub(CHARS_TO_REMOVE, '', text)
 
-    return text
+def remove_multiple_spaces(text):
+    return re.sub(' +', ' ', text)
 
 def clean_marks(element, is_author=False):
     """ Clean records from punctuation marks
