@@ -21,41 +21,51 @@ MIN_SIMILARITY_SCORE = 0.9
 def main():
     files = glob.glob(CSV_FILES_PATH)
     for file in files:
+        start_file_time = time.time()
         print('Processing file: ' + os.path.basename(file))
+        analyze_file(file)
+        print_file_summary(start_file_time)
 
-        # Read files into pandas DataFrame
-        data_file = pd.read_csv(file)
-        df = pd.DataFrame(data=data_file)
 
-        # Calculate transforming text to vectors
-        start_time = time.time()
-        tf_idf_matrix = TFIDF_VECTORIZER.fit_transform(df['title'])
-        end_time = time.time() - start_time
-        print("Finished transforming text to vectors in: ", end_time)
+def analyze_file(file):
+    # Read files into pandas DataFrame
+    data_file = pd.read_csv(file)
+    df = pd.DataFrame(data=data_file)
 
-        # Calculate cosine similarity
-        start_time = time.time()
-        matches = cosine_similarity(tf_idf_matrix, tf_idf_matrix.transpose(), 10, 0.8)
-        end_time = time.time() - start_time
-        print("Finished cosine similarity calculation in: ", end_time)
+    # Calculate transforming text to vectors
+    start_time = time.time()
+    tf_idf_matrix = TFIDF_VECTORIZER.fit_transform(df['title'])
+    end_time = time.time() - start_time
+    print("Finished transforming text to vectors in: ", end_time)
 
-        # Getting matches DataFrame
-        start_time = time.time()
-        matches_df = get_matches_df(matches, df['title'], df['isbn'], top=3000)
-        end_time = time.time() - start_time
-        print("Finished getting matches DataFrame in: ", end_time)
+    # Calculate cosine similarity
+    start_time = time.time()
+    matches = cosine_similarity(tf_idf_matrix, tf_idf_matrix.transpose(), 10, 0.8)
+    end_time = time.time() - start_time
+    print("Finished cosine similarity calculation in: ", end_time)
 
-        # Remove all matches outside similarity threshold -> final DataFrame
-        final_data_frame = matches_df[matches_df[SIMILARITY_SCORE] > MIN_SIMILARITY_SCORE]
-        final_data_frame = matches_df[matches_df[SIMILARITY_SCORE] < MAX_SIMILARITY_SCORE]
+    # Getting matches DataFrame
+    start_time = time.time()
+    matches_df = get_matches_df(matches, df['title'], df['isbn'], top=3000)
+    end_time = time.time() - start_time
+    print("Finished getting matches DataFrame in: ", end_time)
 
-        # Getting top 10 matches
-        top_10_matches = final_data_frame.sort_values(by=SIMILARITY_SCORE, ascending=False).head(10)
+    # Remove all matches outside similarity threshold -> final DataFrame
+    final_data_frame = matches_df[matches_df[SIMILARITY_SCORE] > MIN_SIMILARITY_SCORE]
+    final_data_frame = matches_df[matches_df[SIMILARITY_SCORE] < MAX_SIMILARITY_SCORE]
 
-        # Saving top 10 matches as png file
-        save_table_image(top_10_matches, os.path.basename(file).split('.')[0])
+    # Getting top 10 matches
+    top_10_matches = final_data_frame.sort_values(by=SIMILARITY_SCORE, ascending=False).head(10)
 
-        print('----------------------')
+    # Saving top 10 matches as png file
+    save_table_image(top_10_matches, os.path.basename(file).split('.')[0])
+
+
+def print_file_summary(start_file_time):
+    print('......................')
+    end_file_time = time.time() - start_file_time
+    print("Finished processing file in : ", end_file_time)
+    print('----------------------')
 
 
 def cosine_similarity(A, B, ntop, lower_bound=0):

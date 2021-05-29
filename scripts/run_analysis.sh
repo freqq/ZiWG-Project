@@ -47,6 +47,7 @@ function main() {
     remove_identical_duplicates
     transform_text_to_vectors
 
+    log_info "------FINISH------"
     log_info "Analysis finished."
 }
 
