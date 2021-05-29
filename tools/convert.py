@@ -12,6 +12,7 @@ from pymarc import MARCReader
 CHARS_TO_REMOVE = re.compile(r'[\n\"\'/(){}\[\]\[]|@,.;:"#]')
 MAX_ENTRIES_TO_READ = 1000000
 
+
 def main():
     """ Main function
     """
@@ -30,23 +31,24 @@ def main():
                              'source', 'library', 'notes'])
 
             for i, record in enumerate(reader):
-                pub_place = clean_marks(record['260']['a']) if '260' in record else None
-                extent = clean_marks(record['300']['a'], True) if '300' in record else None
-                dimensions = record['300']['c'] if '300' in record else None
-                subject = record['650']['a'] if '650' in record else None
-                inclusion_date = record['988']['a'] if '988' in record else None
-                source = record['906']['a'] if '906' in record else None
-                library = record['690']['5'] if '690' in record else None
+                if i <= MAX_ENTRIES_TO_READ:
+                    pub_place = clean_marks(record['260']['a']) if '260' in record else None
+                    extent = clean_marks(record['300']['a'], True) if '300' in record else None
+                    dimensions = record['300']['c'] if '300' in record else None
+                    subject = record['650']['a'] if '650' in record else None
+                    inclusion_date = record['988']['a'] if '988' in record else None
+                    source = record['906']['a'] if '906' in record else None
+                    library = record['690']['5'] if '690' in record else None
 
-                notes = " ".join([field['a'] for field in record.notes() if 'a' in field])
+                    notes = " ".join([field['a'] for field in record.notes() if 'a' in field])
 
-                writer.writerow([record.isbn(), clean_title(record.title()), clean_marks(record.author(), True),
-                                clean_marks(record.publisher()), pub_place, clean_marks(record.pubyear()),
-                                extent, dimensions, subject, inclusion_date,
-                                source, library, notes])
+                    writer.writerow([record.isbn(), clean_title(record.title()), clean_marks(record.author(), True),
+                                    clean_marks(record.publisher()), pub_place, clean_marks(record.pubyear()),
+                                    extent, dimensions, subject, inclusion_date,
+                                    source, library, notes])
 
-                if i % 100 == 0:
-                    print('Processed ' + str(i) + ' records.')
+                    if i % 100 == 0:
+                        print('Processed ' + str(i) + ' records.')
 
 
 def clean_title(title):
