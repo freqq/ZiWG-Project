@@ -10,7 +10,7 @@ import re
 from pymarc import MARCReader
 
 CHARS_TO_REMOVE = re.compile(r'[\n\"\'/(){}\[\]\[]|@,.;:"#]')
-
+MAX_ENTRIES_TO_READ = 1000000
 
 def main():
     """ Main function
@@ -41,9 +41,9 @@ def main():
                 notes = " ".join([field['a'] for field in record.notes() if 'a' in field])
 
                 writer.writerow([record.isbn(), clean_title(record.title()), clean_marks(record.author(), True),
-                                 clean_marks(record.publisher()), pub_place, clean_marks(record.pubyear()),
-                                 extent, dimensions, subject, inclusion_date,
-                                 source, library, notes])
+                                clean_marks(record.publisher()), pub_place, clean_marks(record.pubyear()),
+                                extent, dimensions, subject, inclusion_date,
+                                source, library, notes])
 
                 if i % 100 == 0:
                     print('Processed ' + str(i) + ' records.')
