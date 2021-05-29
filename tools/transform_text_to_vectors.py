@@ -11,7 +11,7 @@ import dataframe_image as dfi
 from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy.sparse import csr_matrix
 
-CSV_FILES_PATH = "../data/csv/*.csv"
+REMOVED_DUPLICATES_CSV_FILES_PATH = "../data/removed_duplicates/*.csv"
 TFIDF_VECTORIZER = TfidfVectorizer(ngram_range=(1, 2), max_df=0.9, min_df=5, token_pattern=r'(\S+)')
 SIMILARITY_SCORE = 'similairity_score'
 MAX_SIMILARITY_SCORE = 0.9999
@@ -19,7 +19,7 @@ MIN_SIMILARITY_SCORE = 0.9
 
 
 def main():
-    files = glob.glob(CSV_FILES_PATH)
+    files = glob.glob(REMOVED_DUPLICATES_CSV_FILES_PATH)
     for file in files:
         start_file_time = time.time()
         print('Processing file: ' + os.path.basename(file))
