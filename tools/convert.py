@@ -9,7 +9,8 @@ import re
 
 from pymarc import MARCReader
 
-CHARS_TO_REMOVE = re.compile('[\n\"\'/(){}\[\]\[]|@,.;:"#]')
+CHARS_TO_REMOVE = re.compile(r'[\n\"\'/(){}\[\]\[]|@,.;:"#]')
+
 
 def main():
     """ Main function
@@ -43,9 +44,10 @@ def main():
                                  clean_marks(record.publisher()), pub_place, clean_marks(record.pubyear()),
                                  extent, dimensions, subject, inclusion_date,
                                  source, library, notes])
-                
+
                 if i % 100 == 0:
-                    print('Processed ' +  str(i) + ' records.')
+                    print('Processed ' + str(i) + ' records.')
+
 
 def clean_title(title):
     title = title.lower()
@@ -56,11 +58,14 @@ def clean_title(title):
 
     return title
 
+
 def remove_unwanted_characters(text):
     return re.sub(CHARS_TO_REMOVE, '', text)
 
+
 def remove_multiple_spaces(text):
     return re.sub(' +', ' ', text)
+
 
 def clean_marks(element, is_author=False):
     """ Clean records from punctuation marks
@@ -84,12 +89,15 @@ def clean_marks(element, is_author=False):
 
     return None
 
+
 def remove_stop_words(element):
     return ' '.join([word for word in element.split() if word not in get_stop_words()])
 
+
 def get_stop_words():
     with open("../data/stop_words.txt", 'r') as fh:
-       return fh.read().splitlines()
+        return fh.read().splitlines()
+
 
 if __name__ == '__main__':
     main()
