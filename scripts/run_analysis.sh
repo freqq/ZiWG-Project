@@ -28,7 +28,7 @@ function remove_identical_duplicates() {
     log_info "Finished - Remove identical duplicates."
 }
 
-function transform_text_to_vectors() {
+function transform_text_to_vectors_and_analyse() {
     log_info "-------------------------------------"
     log_info "Starting - Transform text to vectors."
 
@@ -45,7 +45,7 @@ function main() {
 
     convert_marc_to_csv
     remove_identical_duplicates
-    transform_text_to_vectors
+    transform_text_to_vectors_and_analyse
 
     log_info "------FINISH------"
     log_info "Analysis finished."
