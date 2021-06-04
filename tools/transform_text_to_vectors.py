@@ -15,8 +15,9 @@ REMOVED_DUPLICATES_CSV_FILES_PATH = "../data/csv/*.csv"
 RESULT_CSV_FILES_PATH = "../data/result/"
 TFIDF_VECTORIZER = TfidfVectorizer(ngram_range=(1, 2), max_df=0.9, min_df=5, token_pattern=r'(\S+)')
 SIMILARITY_SCORE = 'similairity_score'
-MAX_SIMILARITY_SCORE = 0.9999
+MAX_SIMILARITY_SCORE = 0.999
 MIN_SIMILARITY_SCORE = 0.9
+TOP_VALUE = 5200000
 
 
 def main():
@@ -47,7 +48,7 @@ def analyze_file(file):
 
     # Getting matches DataFrame
     start_time = time.time()
-    matches_df = get_matches_df(matches, df['title'], df['isbn'], top=3000)
+    matches_df = get_matches_df(matches, df['title'], df['isbn'], top=TOP_VALUE)
     end_time = time.time() - start_time
     print("Finished getting matches DataFrame in: ", end_time)
 

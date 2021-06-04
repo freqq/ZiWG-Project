@@ -1,579 +1,141 @@
 ,First entry (Title + ISBN),Second entry (Title + ISBN),similairity_score
-2011,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny schneider kreuznach xenar f: 2,8, należący janiny mierzeckiej ; -",0.9790244538818706
-2019,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny flektogon 450 asb, należący janiny mierzeckiej ; -",0.9790244538818706
-2017,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny jantar color 1:5,680, należący janiny mierzeckiej ; -",0.9790244538818706
-2016,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny schneider kreuznach angulon f 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-2015,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny zeiss tessar 4,550, należący janiny mierzeckiej ; -",0.9790244538818706
-2014,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny voigtländer collinear-linse 416 mm, należący janiny mierzeckiej ; -",0.9790244538818706
-2013,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny schneider kreuznach xenar f: 4,5, należący janiny mierzeckiej ; -",0.9790244538818706
-2012,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny zeiss rolleiflex magnar 4x, należący janiny mierzeckiej ; -",0.9790244538818706
-2009,"obiektyw fotograficzny schneider kreuznach xenar f: 2,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-1999,"obiektyw fotograficzny zeiss rolleiflex magnar 4x, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-1989,"obiektyw fotograficzny schneider kreuznach xenar f: 4,5, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-1979,"obiektyw fotograficzny voigtländer collinear-linse 416 mm, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-1969,"obiektyw fotograficzny zeiss tessar 4,550, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-1959,"obiektyw fotograficzny schneider kreuznach angulon f 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-1949,"obiektyw fotograficzny jantar color 1:5,680, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-1939,"obiektyw fotograficzny primotar 3,5180, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-1929,"obiektyw fotograficzny flektogon 450 asb, należący janiny mierzeckiej ; -","obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -",0.9790244538818706
-2018,"obiektyw fotograficzny hugo meyer aristostigmat : 6,8, należący janiny mierzeckiej ; -","obiektyw fotograficzny primotar 3,5180, należący janiny mierzeckiej ; -",0.9790244538818706
-2998,"inicjał z, ilustracja książki na rwd-5 atlantyk stanisława skarżyńskiego ; -","lot, ilustracja książki na rwd-5 atlantyk stanisława skarżyńskiego ; -",0.9726134338757729
-2654,"inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -","mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2675,"inicjał m, ilustracja księgi pamiątkowej czci poległych lotników ; -","spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2585,"samolot rwd-6, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2584,"samolot rwd-6, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2583,"samolot rwd-6, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2655,"inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -","spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2656,"inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2664,"inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -","mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2665,"inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -","spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2666,"inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2674,"inicjał m, ilustracja księgi pamiątkowej czci poległych lotników ; -","mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2676,"inicjał m, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2593,"montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2684,"inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -","mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2685,"inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -","spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2686,"inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2694,"inicjał k, ilustracja księgi pamiątkowej czci poległych lotników ; -","mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2695,"inicjał k, ilustracja księgi pamiątkowej czci poległych lotników ; -","spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2696,"inicjał k, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2704,"inicjał d, ilustracja księgi pamiątkowej czci poległych lotników ; -","mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2705,"inicjał d, ilustracja księgi pamiątkowej czci poległych lotników ; -","spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2646,"inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2586,"samolot rwd-6, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2706,"inicjał d, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2594,"montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2614,"mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2644,"inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -","mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2636,"samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2635,"samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2634,"samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2633,"samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2626,"spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2625,"spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2624,"spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2595,"montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2623,"spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2616,"mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2615,"mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2613,"mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2606,"montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2605,"montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2604,"montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2603,"montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2596,"montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał u, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-2645,"inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -","spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9652163061566258
-417,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9638858642695187
-418,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9638858642695187
-419,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxvi : wersy 13-59 ; -,0.9638858642695187
-433,"ilustracja boskiej komedii dantego : piekło : pieśń xxxii : wersy 16-54, 97-105 pieśń xxxiii : wersy 91-99 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9638858642695187
-434,"ilustracja boskiej komedii dantego : piekło : pieśń xxxii : wersy 16-54, 97-105 pieśń xxxiii : wersy 91-99 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9638858642695187
-435,"ilustracja boskiej komedii dantego : piekło : pieśń xxxii : wersy 16-54, 97-105 pieśń xxxiii : wersy 91-99 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9638858642695187
-436,"ilustracja boskiej komedii dantego : piekło : pieśń xxxii : wersy 16-54, 97-105 pieśń xxxiii : wersy 91-99 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9638858642695187
-437,"ilustracja boskiej komedii dantego : piekło : pieśń xxxii : wersy 16-54, 97-105 pieśń xxxiii : wersy 91-99 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9638858642695187
-438,"ilustracja boskiej komedii dantego : piekło : pieśń xxxii : wersy 16-54, 97-105 pieśń xxxiii : wersy 91-99 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9638858642695187
-416,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9638858642695187
-415,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9638858642695187
-414,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9638858642695187
-413,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9638858642695187
-389,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxvi : wersy 13-59 ; -,0.9638858642695187
-388,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9638858642695187
-387,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9638858642695187
-386,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9638858642695187
-385,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9638858642695187
-439,"ilustracja boskiej komedii dantego : piekło : pieśń xxxii : wersy 16-54, 97-105 pieśń xxxiii : wersy 91-99 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxvi : wersy 13-59 ; -,0.9638858642695187
-384,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9638858642695187
-383,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9638858642695187
-2534,"inicjał w, ilustracja książki onegdaj wacława berenta ; -","atena budząca śpiącego geniusza, ilustracja książki onegdaj wacława berenta ; -",0.9631592704725593
-2533,"inicjał w, ilustracja książki onegdaj wacława berenta ; -","miecz gałązka lauru, ilustracja książki onegdaj wacława berenta ; -",0.9631592704725593
-2532,"inicjał w, ilustracja książki onegdaj wacława berenta ; -","nagrobek cypriana godebskiego, ilustracja książki onegdaj wacława berenta ; -",0.9631592704725593
-2531,"inicjał w, ilustracja książki onegdaj wacława berenta ; -","hełm kołczan strzałami, ilustracja książki onegdaj wacława berenta ; -",0.9631592704725593
-2529,"hełm kołczan strzałami, ilustracja książki onegdaj wacława berenta ; -","inicjał w, ilustracja książki onegdaj wacława berenta ; -",0.9631592704725593
-2524,"nagrobek cypriana godebskiego, ilustracja książki onegdaj wacława berenta ; -","inicjał w, ilustracja książki onegdaj wacława berenta ; -",0.9631592704725593
-2519,"miecz gałązka lauru, ilustracja książki onegdaj wacława berenta ; -","inicjał w, ilustracja książki onegdaj wacława berenta ; -",0.9631592704725593
-2514,"atena budząca śpiącego geniusza, ilustracja książki onegdaj wacława berenta ; -","inicjał w, ilustracja książki onegdaj wacława berenta ; -",0.9631592704725593
-1284,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał b legendy złota kaczka ; -,0.9561797877517385
-1278,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy pan jezus fary ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,0.9561797877517385
-1281,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy przestroga ; -,0.9561797877517385
-1282,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy pan jezus fary ; -,0.9561797877517385
-1283,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał ż legendy burmistrz śmierć ; -,0.9561797877517385
-1260,inicjał legend warszawy ewy szelburg-zarembiny : inicjał b legendy złota kaczka ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,0.9561797877517385
-1285,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał z legendy kochanica diabła ; -,0.9561797877517385
-1286,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał z legendy kocur kamienicy książąt mazowieckich ; -,0.9561797877517385
-1287,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy wróżba panny wodnej ; -,0.9561797877517385
-1307,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy przestroga ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,0.9561797877517385
-1242,inicjał legend warszawy ewy szelburg-zarembiny : inicjał z legendy kocur kamienicy książąt mazowieckich ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,0.9561797877517385
-1269,inicjał legend warszawy ewy szelburg-zarembiny : inicjał ż legendy burmistrz śmierć ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,0.9561797877517385
-1251,inicjał legend warszawy ewy szelburg-zarembiny : inicjał z legendy kochanica diabła ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,0.9561797877517385
-1233,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy wróżba panny wodnej ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał w legendy widmo ; -,0.9561797877517385
-469,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.954088049725241
-470,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.954088049725241
-813,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.954088049725241
-812,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.954088049725241
-811,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.954088049725241
-810,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.954088049725241
-809,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.954088049725241
-808,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.954088049725241
-807,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.954088049725241
-806,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.954088049725241
-805,ilustracja boskiej komedii dantego : raj : pieśń ii : wersy 112-148 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.954088049725241
-476,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.954088049725241
-475,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.954088049725241
-474,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.954088049725241
-473,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.954088049725241
-472,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.954088049725241
-471,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.954088049725241
-468,ilustracja boskiej komedii dantego : czyściec : pieśń ii : wersy 10-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.954088049725241
-94,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9538239990300549
-93,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9538239990300549
-95,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9538239990300549
-96,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9538239990300549
-97,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9538239990300549
-98,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9538239990300549
-99,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9538239990300549
-100,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9538239990300549
-101,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9538239990300549
-1813,wybitne osiągnięcia twórcze dziedzinie fotografii : janina mierzecka : 1985 ; -,150 fotografii : 1839-1989 ; -,0.9522155077235226
-1770,150 fotografii : 1839-1989 ; -,wybitne osiągnięcia twórcze dziedzinie fotografii : janina mierzecka : 1985 ; -,0.9522155077235226
-822,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.9476665190164097
-815,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.9476665190164097
-486,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.9476665190164097
-485,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.9476665190164097
-478,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.9476665190164097
-484,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.9476665190164097
-483,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.9476665190164097
-482,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.9476665190164097
-817,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.9476665190164097
-479,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.9476665190164097
-816,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.9476665190164097
-823,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.9476665190164097
-818,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.9476665190164097
-819,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.9476665190164097
-820,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.9476665190164097
-821,ilustracja boskiej komedii dantego : raj : pieśń iii : wersy 1-24 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.9476665190164097
-481,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.9476665190164097
-480,ilustracja boskiej komedii dantego : czyściec : pieśń iii : wersy 46-102 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.9476665190164097
-121,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9473685615933003
-120,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9473685615933003
-119,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9473685615933003
-118,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9473685615933003
-117,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9473685615933003
-113,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9473685615933003
-114,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9473685615933003
-115,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9473685615933003
-116,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9473685615933003
-2347,neu vermehrter curioser meilen-zeigert der vornehmsten staedte in europa besonders in teutschland wie viel gemeine teutsche meilen solche voneinander entlegen ... ; -,dominicus nicolaus radiwil dg dux in ołyka nieswiez ... ; -,0.9470076050160715
-625,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.9462924643088414
-626,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.9462924643088414
-959,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.9462924643088414
-958,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.9462924643088414
-957,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.9462924643088414
-956,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.9462924643088414
-955,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.9462924643088414
-962,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.9462924643088414
-963,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.9462924643088414
-961,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.9462924643088414
-624,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.9462924643088414
-619,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.9462924643088414
-620,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.9462924643088414
-621,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.9462924643088414
-622,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.9462924643088414
-623,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.9462924643088414
-618,ilustracja boskiej komedii dantego : czyściec : pieśń xvii : wersy 40-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.9462924643088414
-960,ilustracja boskiej komedii dantego : raj : pieśń xvii : wersy 112-142 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.9462924643088414
-267,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9459873462376367
-261,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9459873462376367
-264,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9459873462376367
-263,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9459873462376367
-266,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9459873462376367
-265,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9459873462376367
-268,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9459873462376367
-269,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9459873462376367
-262,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9459873462376367
-1170,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,ilustracja legend warszawy ewy szelburg-zarembiny : kocur kamienicy książąt mazowieckich ; -,0.9456477703690285
-1169,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,ilustracja legend warszawy ewy szelburg-zarembiny : kochanica diabła ; -,0.9456477703690285
-1190,ilustracja legend warszawy ewy szelburg-zarembiny : widmo ; -,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,0.9456477703690285
-1189,ilustracja legend warszawy ewy szelburg-zarembiny : widmo ; -,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,0.9456477703690285
-1180,ilustracja legend warszawy ewy szelburg-zarembiny : pan jezus fary ; -,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,0.9456477703690285
-1179,ilustracja legend warszawy ewy szelburg-zarembiny : pan jezus fary ; -,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,0.9456477703690285
-1196,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,ilustracja legend warszawy ewy szelburg-zarembiny : widmo ; -,0.9456477703690285
-1197,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,ilustracja legend warszawy ewy szelburg-zarembiny : pan jezus fary ; -,0.9456477703690285
-1198,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,ilustracja legend warszawy ewy szelburg-zarembiny : złota kaczka ; -,0.9456477703690285
-1200,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,ilustracja legend warszawy ewy szelburg-zarembiny : kocur kamienicy książąt mazowieckich ; -,0.9456477703690285
-1168,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,ilustracja legend warszawy ewy szelburg-zarembiny : złota kaczka ; -,0.9456477703690285
-1199,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,ilustracja legend warszawy ewy szelburg-zarembiny : kochanica diabła ; -,0.9456477703690285
-1159,ilustracja legend warszawy ewy szelburg-zarembiny : złota kaczka ; -,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,0.9456477703690285
-1140,ilustracja legend warszawy ewy szelburg-zarembiny : kocur kamienicy książąt mazowieckich ; -,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,0.9456477703690285
-1167,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,ilustracja legend warszawy ewy szelburg-zarembiny : pan jezus fary ; -,0.9456477703690285
-1166,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,ilustracja legend warszawy ewy szelburg-zarembiny : widmo ; -,0.9456477703690285
-1149,ilustracja legend warszawy ewy szelburg-zarembiny : kochanica diabła ; -,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,0.9456477703690285
-1150,ilustracja legend warszawy ewy szelburg-zarembiny : kochanica diabła ; -,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,0.9456477703690285
-1160,ilustracja legend warszawy ewy szelburg-zarembiny : złota kaczka ; -,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,0.9456477703690285
-1139,ilustracja legend warszawy ewy szelburg-zarembiny : kocur kamienicy książąt mazowieckich ; -,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,0.9456477703690285
-488,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.9447935183435725
-828,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.9447935183435725
-491,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.9447935183435725
-827,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.9447935183435725
-492,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.9447935183435725
-493,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.9447935183435725
-830,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.9447935183435725
-826,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.9447935183435725
-825,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.9447935183435725
-494,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.9447935183435725
-495,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.9447935183435725
-496,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.9447935183435725
-829,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.9447935183435725
-490,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.9447935183435725
-831,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.9447935183435725
-833,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.9447935183435725
-489,ilustracja boskiej komedii dantego : czyściec : pieśń iv : wersy 14-153 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.9447935183435725
-832,ilustracja boskiej komedii dantego : raj : pieśń iv : wersy 28-63 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.9447935183435725
-131,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9444806266743191
-123,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9444806266743191
-124,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9444806266743191
-125,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9444806266743191
-126,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9444806266743191
-127,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9444806266743191
-128,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9444806266743191
-130,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9444806266743191
-129,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9444806266743191
-506,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.9431468728825405
-504,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.9431468728825405
-503,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.9431468728825405
-505,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.9431468728825405
-502,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.9431468728825405
-498,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.9431468728825405
-501,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.9431468728825405
-500,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -","ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.9431468728825405
-499,"ilustracja boskiej komedii dantego : czyściec : pieśń v : wersy 8-26, 130-136 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.9431468728825405
-140,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9428254871485704
-141,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9428254871485704
-147,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9428254871485704
-146,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9428254871485704
-145,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9428254871485704
-144,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9428254871485704
-143,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9428254871485704
-142,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9428254871485704
-148,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9428254871485704
-885,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.9392827988410506
-886,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.9392827988410506
-887,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.9392827988410506
-892,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.9392827988410506
-888,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.9392827988410506
-548,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.9392827988410506
-551,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.9392827988410506
-552,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.9392827988410506
-553,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.9392827988410506
-554,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.9392827988410506
-555,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.9392827988410506
-556,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.9392827988410506
-889,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.9392827988410506
-549,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.9392827988410506
-550,"ilustracja boskiej komedii dantego : czyściec : pieśń x : wersy 1-75, 100-139 ; -","ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.9392827988410506
-890,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.9392827988410506
-891,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.9392827988410506
-893,ilustracja boskiej komedii dantego : raj : pieśń x : wersy 64-138 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.9392827988410506
-192,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9389416672617626
-199,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9389416672617626
-193,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9389416672617626
-191,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9389416672617626
-198,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9389416672617626
-197,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9389416672617626
-194,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9389416672617626
-195,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9389416672617626
-196,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9389416672617626
-2571,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot rwd-6, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9383682375297876
-2570,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","spalone domy, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9383682375297876
-2568,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9383682375297876
-2569,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","mogiła lotnika, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9383682375297876
-2572,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","montgolfier, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9383682375297876
-2573,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","samolot zatoką, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.9383682375297876
-1207,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,ilustracja legend warszawy ewy szelburg-zarembiny : złota kaczka ; -,0.937595109131593
-1208,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,ilustracja legend warszawy ewy szelburg-zarembiny : kochanica diabła ; -,0.937595109131593
-1181,ilustracja legend warszawy ewy szelburg-zarembiny : pan jezus fary ; -,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,0.937595109131593
-1191,ilustracja legend warszawy ewy szelburg-zarembiny : widmo ; -,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,0.937595109131593
-1161,ilustracja legend warszawy ewy szelburg-zarembiny : złota kaczka ; -,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,0.937595109131593
-1141,ilustracja legend warszawy ewy szelburg-zarembiny : kocur kamienicy książąt mazowieckich ; -,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,0.937595109131593
-1205,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,ilustracja legend warszawy ewy szelburg-zarembiny : widmo ; -,0.937595109131593
-1151,ilustracja legend warszawy ewy szelburg-zarembiny : kochanica diabła ; -,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,0.937595109131593
-1209,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,ilustracja legend warszawy ewy szelburg-zarembiny : kocur kamienicy książąt mazowieckich ; -,0.937595109131593
-1206,ilustracja legend warszawy ewy szelburg-zarembiny : cud świętej anny ; -,ilustracja legend warszawy ewy szelburg-zarembiny : pan jezus fary ; -,0.937595109131593
-922,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.9343179752149464
-867,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.9343179752149464
-921,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.9343179752149464
-923,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.9343179752149464
-920,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.9343179752149464
-919,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.9343179752149464
-868,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.9343179752149464
-869,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.9343179752149464
-870,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.9343179752149464
-871,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.9343179752149464
-872,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.9343179752149464
-873,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.9343179752149464
-918,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.9343179752149464
-917,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.9343179752149464
-916,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.9343179752149464
-915,ilustracja boskiej komedii dantego : raj : pieśń xiii : wersy 1-30 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.9343179752149464
-865,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.9343179752149464
-866,ilustracja boskiej komedii dantego : raj : pieśń viii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.9343179752149464
-584,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.9343179752149464
-586,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.9343179752149464
-535,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.9343179752149464
-578,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.9343179752149464
-579,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.9343179752149464
-580,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.9343179752149464
-581,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.9343179752149464
-582,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.9343179752149464
-583,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.9343179752149464
-585,ilustracja boskiej komedii dantego : czyściec : pieśń xiii : wersy 1-84 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.9343179752149464
-532,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.9343179752149464
-533,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.9343179752149464
-534,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.9343179752149464
-531,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.9343179752149464
-530,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -","ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.9343179752149464
-528,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.9343179752149464
-529,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.9343179752149464
-536,"ilustracja boskiej komedii dantego : czyściec : pieśń viii : wersy 1-45, 94-108 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.9343179752149464
-1708,portret mai berezowskiej ; -,wachlarz mai berezowskiej ; -,0.9342522120498142
-1745,lampka mai berezowskiej ; -,portret mai berezowskiej ; -,0.9342522120498142
-1709,portret mai berezowskiej ; -,stół cztery krzesła mai berezowskiej ; -,0.9342522120498142
-1719,stół cztery krzesła mai berezowskiej ; -,portret mai berezowskiej ; -,0.9342522120498142
-1706,portret mai berezowskiej ; -,lampka mai berezowskiej ; -,0.9342522120498142
-1707,portret mai berezowskiej ; -,binokle etui należące mai berezowskiej ; -,0.9342522120498142
-1739,binokle etui należące mai berezowskiej ; -,portret mai berezowskiej ; -,0.9342522120498142
-1733,wachlarz mai berezowskiej ; -,portret mai berezowskiej ; -,0.9342522120498142
-172,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9339518555278227
-173,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9339518555278227
-174,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9339518555278227
-175,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9339518555278227
-178,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9339518555278227
-171,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9339518555278227
-179,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9339518555278227
-177,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9339518555278227
-221,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9339518555278227
-222,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9339518555278227
-223,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9339518555278227
-224,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9339518555278227
-225,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9339518555278227
-226,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9339518555278227
-227,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9339518555278227
-228,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9339518555278227
-229,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9339518555278227
-176,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9339518555278227
-1171,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,ilustracja legend warszawy ewy szelburg-zarembiny : przestroga ; kwiaty jabłoni ; -,0.9338905633915974
-1126,ilustracja legend warszawy ewy szelburg-zarembiny : wróżba panny wodnej ; kwiaty smolinosy ; -,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,0.9338905633915974
-1127,ilustracja legend warszawy ewy szelburg-zarembiny : wróżba panny wodnej ; kwiaty smolinosy ; -,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,0.9338905633915974
-1172,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,ilustracja legend warszawy ewy szelburg-zarembiny : wróżba panny wodnej ; kwiaty smolinosy ; -,0.9338905633915974
-1217,ilustracja legend warszawy ewy szelburg-zarembiny : przestroga ; kwiaty jabłoni ; -,ilustracja legend warszawy ewy szelburg-zarembiny : burmistrz śmierć ; kiść bzu ; -,0.9338905633915974
-1202,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,ilustracja legend warszawy ewy szelburg-zarembiny : wróżba panny wodnej ; kwiaty smolinosy ; -,0.9338905633915974
-1201,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,ilustracja legend warszawy ewy szelburg-zarembiny : przestroga ; kwiaty jabłoni ; -,0.9338905633915974
-1216,ilustracja legend warszawy ewy szelburg-zarembiny : przestroga ; kwiaty jabłoni ; -,ilustracja legend warszawy ewy szelburg-zarembiny : o basi giżance ; róże ; -,0.9338905633915974
-985,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.931206819237414
-986,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.931206819237414
-987,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.931206819237414
-988,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.931206819237414
-989,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.931206819237414
-990,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.931206819237414
-991,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.931206819237414
-992,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.931206819237414
-993,ilustracja boskiej komedii dantego : raj : pieśń xx : wersy 37-72 ; -,"ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.931206819237414
-902,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.931206819237414
-913,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.931206819237414
-652,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.931206819237414
-654,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.931206819237414
-655,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.931206819237414
-544,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.931206819237414
-543,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.931206819237414
-656,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.931206819237414
-542,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.931206819237414
-541,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.931206819237414
-540,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.931206819237414
-539,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.931206819237414
-538,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.931206819237414
-526,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.931206819237414
-525,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.931206819237414
-524,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.931206819237414
-563,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.931206819237414
-522,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.931206819237414
-521,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.931206819237414
-520,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.931206819237414
-519,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.931206819237414
-518,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.931206819237414
-516,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.931206819237414
-515,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.931206819237414
-653,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.931206819237414
-651,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.931206819237414
-513,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.931206819237414
-650,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -","ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.931206819237414
-565,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.931206819237414
-566,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.931206819237414
-568,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.931206819237414
-569,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.931206819237414
-570,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -","ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.931206819237414
-571,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.931206819237414
-572,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.931206819237414
-562,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.931206819237414
-912,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.931206819237414
-573,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.931206819237414
-561,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.931206819237414
-574,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.931206819237414
-560,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.931206819237414
-559,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.931206819237414
-558,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.931206819237414
-546,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.931206819237414
-545,ilustracja boskiej komedii dantego : czyściec : pieśń ix : wersy 70-108 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.931206819237414
-575,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxii : wersy 85-108 ; -,0.931206819237414
-576,"ilustracja boskiej komedii dantego : czyściec : pieśń xii : wersy 28-43, 88-107 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxx : wersy 13-72 ; -,0.931206819237414
-648,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.931206819237414
-649,"ilustracja boskiej komedii dantego : czyściec : pieśń xx : wersy 1-18,139-144 ; -",ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.931206819237414
-514,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.931206819237414
-523,ilustracja boskiej komedii dantego : czyściec : pieśń vii : wersy 70-136 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxv : wersy 109-139 ; -,0.931206819237414
-512,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxix : wersy 73-132 ; -,0.931206819237414
-863,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.931206819237414
-876,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.931206819237414
-877,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.931206819237414
-511,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxiv : wersy 98-154 ; -,0.931206819237414
-879,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.931206819237414
-880,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.931206819237414
-881,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.931206819237414
-882,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.931206819237414
-883,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.931206819237414
-895,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.931206819237414
-896,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.931206819237414
-897,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.931206819237414
-898,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.931206819237414
-899,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.931206819237414
-900,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.931206819237414
-901,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.931206819237414
-903,"ilustracja boskiej komedii dantego : raj : pieśń xi : wersy 13-15, 28-39 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.931206819237414
-905,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.931206819237414
-906,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.931206819237414
-907,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.931206819237414
-908,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.931206819237414
-909,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.931206819237414
-910,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.931206819237414
-911,"ilustracja boskiej komedii dantego : raj : pieśń xii : wersy 19-21, 80, 130-145 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.931206819237414
-875,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.931206819237414
-878,"ilustracja boskiej komedii dantego : raj : pieśń ix : wersy 22-66, 82-96 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.931206819237414
-564,ilustracja boskiej komedii dantego : czyściec : pieśń xi : wersy 1-51 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxiii : wersy 103-114 ; -,0.931206819237414
-858,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.931206819237414
-510,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,"ilustracja boskiej komedii dantego : czyściec : pieśń xxvii : wersy 1-48, 88-90 ; -",0.931206819237414
-862,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.931206819237414
-509,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxxi : wersy 92-102 ; -,0.931206819237414
-508,ilustracja boskiej komedii dantego : czyściec : pieśń vi : wersy 55-78 ; -,ilustracja boskiej komedii dantego : czyściec : pieśń xxviii : wersy 1-63 ; -,0.931206819237414
-861,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.931206819237414
-855,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.931206819237414
-856,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.931206819237414
-860,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.931206819237414
-857,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.931206819237414
-859,"ilustracja boskiej komedii dantego : raj : pieśń vii : wersy 1-9, 35-45 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.931206819237414
-166,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9308252594108334
-167,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9308252594108334
-168,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-293,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9308252594108334
-169,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9308252594108334
-164,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-292,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9308252594108334
-291,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9308252594108334
-219,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9308252594108334
-218,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-165,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9308252594108334
-156,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9308252594108334
-163,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9308252594108334
-297,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9308252594108334
-294,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-295,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9308252594108334
-157,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-162,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9308252594108334
-161,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9308252594108334
-158,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9308252594108334
-150,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9308252594108334
-151,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9308252594108334
-152,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9308252594108334
-153,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-154,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9308252594108334
-155,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9308252594108334
-296,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9308252594108334
-189,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9308252594108334
-299,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9308252594108334
-201,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9308252594108334
-217,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9308252594108334
-216,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9308252594108334
-215,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9308252594108334
-214,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-213,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9308252594108334
-212,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9308252594108334
-188,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-187,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9308252594108334
-186,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9308252594108334
-185,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9308252594108334
-184,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-183,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9308252594108334
-182,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9308252594108334
-181,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9308252594108334
-206,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9308252594108334
-207,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9308252594108334
-203,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9308252594108334
-204,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-205,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9308252594108334
-298,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-202,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9308252594108334
-211,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9308252594108334
-209,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9308252594108334
-208,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9308252594108334
-1296,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał z legendy kochanica diabła ; -,0.9218803136115248
-1295,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał b legendy złota kaczka ; -,0.9218803136115248
-1294,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał ż legendy burmistrz śmierć ; -,0.9218803136115248
-1293,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy pan jezus fary ; -,0.9218803136115248
-1292,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy przestroga ; -,0.9218803136115248
-1270,inicjał legend warszawy ewy szelburg-zarembiny : inicjał ż legendy burmistrz śmierć ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,0.9218803136115248
-1234,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy wróżba panny wodnej ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,0.9218803136115248
-1243,inicjał legend warszawy ewy szelburg-zarembiny : inicjał z legendy kocur kamienicy książąt mazowieckich ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,0.9218803136115248
-1252,inicjał legend warszawy ewy szelburg-zarembiny : inicjał z legendy kochanica diabła ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,0.9218803136115248
-1261,inicjał legend warszawy ewy szelburg-zarembiny : inicjał b legendy złota kaczka ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,0.9218803136115248
-1298,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy wróżba panny wodnej ; -,0.9218803136115248
-1279,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy pan jezus fary ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,0.9218803136115248
-1297,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał z legendy kocur kamienicy książąt mazowieckich ; -,0.9218803136115248
-1308,inicjał legend warszawy ewy szelburg-zarembiny : inicjał o legendy przestroga ; -,inicjał legend warszawy ewy szelburg-zarembiny : inicjał g legendy cud św. anny ; -,0.9218803136115248
-845,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxviii : wersy 13-39, 94-96 ; -",0.9139995355786446
-846,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxi : wersy 59-142 ; -,0.9139995355786446
-847,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxvii : wersy 1-11, 19-27, 40-66 ; -",0.9139995355786446
-848,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxiv : wersy 19-45 ; -,0.9139995355786446
-849,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxix : wersy 49-57, 91-93, 130-145 ; -",0.9139995355786446
-850,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxv : wersy 13-27, 100-117 ; -",0.9139995355786446
-853,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxx : wersy 61-81, 88-120 ; -",0.9139995355786446
-852,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -","ilustracja boskiej komedii dantego : raj : pieśń xxxii : wersy 4-36, 85-99, 118-138 ; -",0.9139995355786446
-851,"ilustracja boskiej komedii dantego : raj : pieśń vi : wersy 10, 127-142 pieśń v: wersy 130-139 ; -",ilustracja boskiej komedii dantego : raj : pieśń xxxiii : wersy 115-145 ; -,0.9139995355786446
-2452,budowa okrętów polskich pucku ; -,związek polskich artystów fotografików : 1947-1987 ; -,0.9113873472186586
-2334,stereoskop oglądania fotografii stereoskopowych niemieckiej firmy amato d.r.g.m. ; -,150 fotografii : 1839-1989 ; -,0.9113873472186586
-2446,budowa okrętów polskich ; -,związek polskich artystów fotografików : 1947-1987 ; -,0.9113873472186586
-2447,budowa okrętów polskich ; -,związek polskich artystów fotografików : 1947-1987 ; -,0.9113873472186586
-2448,budowa okrętów polskich ; -,dzieiow polskich : zabawa historyczna sposobie loteryi ułożona ; -,0.9113873472186586
-2451,budowa okrętów polskich pucku ; -,związek polskich artystów fotografików : 1947-1987 ; -,0.9113873472186586
-1551,dzieiow polskich : zabawa historyczna sposobie loteryi ułożona ; -,budowa okrętów polskich pucku ; -,0.9113873472186586
-2453,budowa okrętów polskich pucku ; -,dzieiow polskich : zabawa historyczna sposobie loteryi ułożona ; -,0.9113873472186586
-1811,związek polskich artystów fotografików : 1947-1987 ; -,budowa okrętów polskich ; -,0.9113873472186586
-1810,związek polskich artystów fotografików : 1947-1987 ; -,budowa okrętów polskich pucku ; -,0.9113873472186586
-1783,ludwik waryński 1856-1889 : założyciel pierwszej polskiej partii rewolucyjnej proletariat ; -,dyplom komandora honorowego oficerskiego yacht clubu rzeczypospolitej polskiej ; -,0.9113873472186586
-1775,ludwik waryński 1856-1889 : założyciel pierwszej polskiej partii rewolucyjnej proletariat ; -,dyplom komandora honorowego oficerskiego yacht clubu rzeczypospolitej polskiej ; -,0.9113873472186586
-1772,150 fotografii : 1839-1989 ; -,plakieta pamiątkowa międzynarodowej wystawy fotografii »vom glück des menschen« berlinie 1967 ; -,0.9113873472186586
-1771,150 fotografii : 1839-1989 ; -,stereoskop oglądania fotografii stereoskopowych niemieckiej firmy amato d.r.g.m. ; -,0.9113873472186586
-1761,związek polskich artystów fotografików : 1947-1987 ; -,budowa okrętów polskich ; -,0.9113873472186586
-1760,związek polskich artystów fotografików : 1947-1987 ; -,budowa okrętów polskich pucku ; -,0.9113873472186586
-1552,dzieiow polskich : zabawa historyczna sposobie loteryi ułożona ; -,budowa okrętów polskich ; -,0.9113873472186586
-1818,plakieta pamiątkowa międzynarodowej wystawy fotografii »vom glück des menschen« berlinie 1967 ; -,150 fotografii : 1839-1989 ; -,0.9113873472186586
-2237,"zestaw barwnych filtrów rolleifilter franke & heidecke, należący janiny mierzeckiej ; -","zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -",0.908101288604543
-2214,"zestaw uchwtów barwnych filtrów fotograficznych, należący janiny mierzeckiej ; -","zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -",0.908101288604543
-2036,"zestaw barwnych filtrów fotograficznych agfa, należący janiny mierzeckiej ; -","zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -",0.908101288604543
-2244,"zestaw różnych soczewek barwnych filtrów firmy carl zeiss jena, należący janiny mierzeckiej ; -","zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -",0.908101288604543
-2246,"zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -","zestaw różnych soczewek barwnych filtrów firmy carl zeiss jena, należący janiny mierzeckiej ; -",0.908101288604543
-2247,"zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -","zestaw barwnych filtrów rolleifilter franke & heidecke, należący janiny mierzeckiej ; -",0.908101288604543
-2248,"zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -","zestaw uchwtów barwnych filtrów fotograficznych, należący janiny mierzeckiej ; -",0.908101288604543
-2249,"zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -","zestaw barwnych filtrów firmy foto-optik arnz, należący janiny mierzeckiej ; -",0.908101288604543
-2250,"zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -","zestaw barwnych filtrów fotograficznych hugo arnz, należący janiny mierzeckiej ; -",0.908101288604543
-2251,"zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -","zestaw barwnych filtrów fotograficznych agfa, należący janiny mierzeckiej ; -",0.908101288604543
-2207,"zestaw barwnych filtrów firmy foto-optik arnz, należący janiny mierzeckiej ; -","zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -",0.908101288604543
-2043,"zestaw barwnych filtrów fotograficznych hugo arnz, należący janiny mierzeckiej ; -","zestaw filtrów barwnych firmy guilleminot, należący janiny mierzeckiej ; -",0.908101288604543
-2574,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał j, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.905728324043205
-2575,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał h, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.905728324043205
-2576,"lot obłokach, ilustracja księgi pamiątkowej czci poległych lotników ; -","inicjał ś, ilustracja księgi pamiątkowej czci poległych lotników ; -",0.905728324043205
+419,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxvi : wersy 13-59 ; -,0.9638945470839384
+418,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9638945470839384
+417,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9638945470839384
+416,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9638945470839384
+415,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9638945470839384
+414,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9638945470839384
+413,"ilustracja boskiej komedii dantego : piekło : pieśń xxx : wersy 22-57, 100-105 pieśń xxix : wersy 67-69 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9638945470839384
+389,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxvi : wersy 13-59 ; -,0.9638945470839384
+388,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9638945470839384
+387,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9638945470839384
+386,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9638945470839384
+385,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9638945470839384
+384,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9638945470839384
+383,ilustracja boskiej komedii dantego : piekło : pieśń xxvii : wersy 4-29 pieśń xxvi : wersy 43-45 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9638945470839384
+94,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9547491612299231
+93,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9547491612299231
+100,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9547491612299231
+95,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9547491612299231
+101,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9547491612299231
+99,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9547491612299231
+98,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9547491612299231
+97,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9547491612299231
+96,ilustracja boskiej komedii dantego : piekło : pieśń ii : wersy 52-85 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9547491612299231
+121,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9474590549100811
+118,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9474590549100811
+117,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9474590549100811
+116,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9474590549100811
+115,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9474590549100811
+114,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9474590549100811
+113,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9474590549100811
+119,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9474590549100811
+120,ilustracja boskiej komedii dantego : piekło : pieśń iii : wersy 80-129 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9474590549100811
+269,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9460821909067043
+264,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9460821909067043
+268,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9460821909067043
+266,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9460821909067043
+265,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9460821909067043
+267,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9460821909067043
+263,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9460821909067043
+262,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9460821909067043
+261,ilustracja boskiej komedii dantego : piekło : pieśń xvii : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9460821909067043
+123,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9445802294624284
+130,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9445802294624284
+129,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9445802294624284
+128,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9445802294624284
+127,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9445802294624284
+126,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9445802294624284
+125,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9445802294624284
+124,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9445802294624284
+131,"ilustracja boskiej komedii dantego : piekło : pieśń iv : wersy 7-12, 25-30, 64-147 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9445802294624284
+145,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9429303286949988
+146,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9429303286949988
+140,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9429303286949988
+141,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9429303286949988
+142,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9429303286949988
+143,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9429303286949988
+144,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9429303286949988
+148,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9429303286949988
+147,ilustracja boskiej komedii dantego : piekło : pieśń v : wersy 1-49 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9429303286949988
+199,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9390588405625966
+198,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9390588405625966
+196,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9390588405625966
+195,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9390588405625966
+194,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9390588405625966
+193,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9390588405625966
+192,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9390588405625966
+191,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9390588405625966
+197,ilustracja boskiej komedii dantego : piekło : pieśń x : wersy 1-59 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9390588405625966
+226,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.934084924674458
+221,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.934084924674458
+172,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.934084924674458
+173,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.934084924674458
+174,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.934084924674458
+229,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.934084924674458
+228,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.934084924674458
+227,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.934084924674458
+225,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.934084924674458
+224,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.934084924674458
+223,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.934084924674458
+222,"ilustracja boskiej komedii dantego : piekło : pieśń xiii : wersy 7-24, 88-107, 115-132 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.934084924674458
+171,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.934084924674458
+179,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.934084924674458
+178,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.934084924674458
+177,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.934084924674458
+176,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -","ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.934084924674458
+175,"ilustracja boskiej komedii dantego : piekło : pieśń viii : wersy 17-24, 31-40, 68-75 ; -",ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.934084924674458
+156,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9309683030569866
+165,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9309683030569866
+150,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9309683030569866
+151,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9309683030569866
+152,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9309683030569866
+153,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+154,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9309683030569866
+155,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9309683030569866
+167,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9309683030569866
+166,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9309683030569866
+291,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9309683030569866
+157,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+292,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9309683030569866
+293,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9309683030569866
+294,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+295,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9309683030569866
+296,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9309683030569866
+168,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+298,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+299,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9309683030569866
+164,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+163,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9309683030569866
+162,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9309683030569866
+161,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9309683030569866
+158,ilustracja boskiej komedii dantego : piekło : pieśń vi : wersy 1-27 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9309683030569866
+297,ilustracja boskiej komedii dantego : piekło : pieśń xx : wersy 1-39 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9309683030569866
+186,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9309683030569866
+169,ilustracja boskiej komedii dantego : piekło : pieśń vii : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9309683030569866
+206,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9309683030569866
+185,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9309683030569866
+189,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9309683030569866
+184,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+183,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9309683030569866
+182,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9309683030569866
+181,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9309683030569866
+201,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9309683030569866
+202,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9309683030569866
+203,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9309683030569866
+204,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+205,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9309683030569866
+207,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9309683030569866
+187,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9309683030569866
+208,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+209,ilustracja boskiej komedii dantego : piekło : pieśń xi : wersy 1-66 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9309683030569866
+211,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxviii : wersy 1-42 ; -,0.9309683030569866
+212,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxiii : wersy 58-69, 110-126 ; -",0.9309683030569866
+213,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxxi : wersy 37-78, 82-96, 112-145 ; -",0.9309683030569866
+214,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+215,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxix : wersy 37-84 ; -,0.9309683030569866
+216,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,"ilustracja boskiej komedii dantego : piekło : pieśń xxv : wersy 17-34, 49-84 ; -",0.9309683030569866
+217,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxii : wersy 13-58 ; -,0.9309683030569866
+218,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
+219,ilustracja boskiej komedii dantego : piekło : pieśń xii : wersy 52-126 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxxiii : wersy 1-81 ; -,0.9309683030569866
+188,ilustracja boskiej komedii dantego : piekło : pieśń ix : wersy 34-60 ; -,ilustracja boskiej komedii dantego : piekło : pieśń xxiv : wersy 79-151 ; -,0.9309683030569866
