@@ -10,7 +10,7 @@ import re
 from pymarc import MARCReader
 
 CHARS_TO_REMOVE = re.compile(r'[\n\"\'/(){}\[\]\[]|@,.;:"#]')
-MAX_ENTRIES_TO_READ = 5200000
+MAX_ENTRIES_TO_READ = 5000000
 
 
 def main():

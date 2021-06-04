@@ -17,7 +17,7 @@ TFIDF_VECTORIZER = TfidfVectorizer(ngram_range=(1, 2), max_df=0.9, min_df=5, tok
 SIMILARITY_SCORE = 'similairity_score'
 MAX_SIMILARITY_SCORE = 0.999
 MIN_SIMILARITY_SCORE = 0.9
-TOP_VALUE = 5200000
+TOP_VALUE = 5000000
 
 
 def main():
