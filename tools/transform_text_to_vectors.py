@@ -48,7 +48,7 @@ def analyze_file(file):
 
     # Getting matches DataFrame
     start_time = time.time()
-    matches_df = get_matches_df(matches, df['title'], df['isbn'], df['author'], df['publisher'], df['pub_year'], top=TOP_VALUE)
+    matches_df = get_matches_df(matches, df['id'], df['title'], df['isbn'], df['author'], df['publisher'], df['pub_year'], top=TOP_VALUE)
     end_time = time.time() - start_time
     print("Finished getting matches DataFrame in: ", end_time)
 
@@ -98,7 +98,7 @@ def cosine_similarity(A, B, ntop, lower_bound=0):
     return csr_matrix((data, indices, indptr), shape=(M, N))
 
 
-def get_matches_df(sparse_matrix, name_vector, isbn, author, publisher, pub_year, top=100):
+def get_matches_df(sparse_matrix, id_vector, name_vector, isbn, author, publisher, pub_year, top=100):
     non_zeros = sparse_matrix.nonzero()
     sparserows = non_zeros[0]
     sparsecols = non_zeros[1]
@@ -113,12 +113,12 @@ def get_matches_df(sparse_matrix, name_vector, isbn, author, publisher, pub_year
     similairity = np.zeros(nr_matches)
 
     for index in range(0, nr_matches):
-        left_side[index] = name_vector[sparserows[index]] + " ; " + get_value(isbn[sparserows[index]])  + " ; " +  get_value(publisher[sparserows[index]])  + " ; " +  get_value(pub_year[sparserows[index]])  + " ; " +  get_value(author[sparserows[index]])
-        right_side[index] = name_vector[sparsecols[index]] + " ; " + get_value(isbn[sparserows[index]])  + " ; " +  get_value(publisher[sparserows[index]])  + " ; " +  get_value(pub_year[sparserows[index]])  + " ; " +  get_value(author[sparserows[index]])
+        left_side[index] = id_vector[sparserows[index]] + " ; " + name_vector[sparserows[index]] + " ; " + get_value(isbn[sparserows[index]])  + " ; " +  get_value(publisher[sparserows[index]])  + " ; " +  get_value(pub_year[sparserows[index]])  + " ; " +  get_value(author[sparserows[index]])
+        right_side[index] = id_vector[sparserows[index]] + " ; " + name_vector[sparsecols[index]] + " ; " + get_value(isbn[sparserows[index]])  + " ; " +  get_value(publisher[sparserows[index]])  + " ; " +  get_value(pub_year[sparserows[index]])  + " ; " +  get_value(author[sparserows[index]])
         similairity[index] = sparse_matrix.data[index]
 
-    return pd.DataFrame({'Pierwsza pozycja (Tytuł / ISBN / Wydawca / Rok / Autor)': left_side,
-                        'Druga pozycja (Tytuł / ISBN / Wydawca / Rok / Autor)': right_side,
+    return pd.DataFrame({'Pierwsza pozycja (ID / Tytuł / ISBN / Wydawca / Rok / Autor)': left_side,
+                        'Druga pozycja (ID / Tytuł / ISBN / Wydawca / Rok / Autor)': right_side,
                          SIMILARITY_SCORE: similairity})
 
 

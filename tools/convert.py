@@ -25,13 +25,14 @@ def main():
 
             reader = MARCReader(output_file)
             writer = csv.writer(input_file)
-            writer.writerow(['isbn', 'title', 'author',
+            writer.writerow(['id', 'isbn', 'title', 'author',
                              'publisher', 'pub_place', 'pub_year',
                              'extent', 'dimensions', 'subject', 'inclusion_date',
                              'source', 'library', 'notes'])
 
             for i, record in enumerate(reader):
                 if i <= MAX_ENTRIES_TO_READ:
+                    record_id = i
                     pub_place = clean_marks(record['260']['a']) if '260' in record else None
                     extent = clean_marks(record['300']['a'], True) if '300' in record else None
                     dimensions = record['300']['c'] if '300' in record else None
@@ -42,7 +43,7 @@ def main():
 
                     notes = " ".join([field['a'] for field in record.notes() if 'a' in field])
 
-                    writer.writerow([record.isbn(), clean_title(record.title()), clean_marks(record.author(), True),
+                    writer.writerow([record_id, record.isbn(), clean_title(record.title()), clean_marks(record.author(), True),
                                     clean_marks(record.publisher()), pub_place, clean_marks(record.pubyear()),
                                     extent, dimensions, subject, inclusion_date,
                                     source, library, notes])
