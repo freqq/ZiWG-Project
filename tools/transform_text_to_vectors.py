@@ -17,7 +17,7 @@ TFIDF_VECTORIZER = TfidfVectorizer(ngram_range=(1, 2), max_df=0.9, min_df=5, tok
 SIMILARITY_SCORE = 'similairity_score'
 MAX_SIMILARITY_SCORE = 0.999
 MIN_SIMILARITY_SCORE = 0.9
-TOP_VALUE = 5000000
+TOP_VALUE = 100
 
 
 def main():
@@ -48,7 +48,7 @@ def analyze_file(file):
 
     # Getting matches DataFrame
     start_time = time.time()
-    matches_df = get_matches_df(matches, df['title'], df['isbn'], top=TOP_VALUE)
+    matches_df = get_matches_df(matches, df['title'], df['isbn'], df['author'], df['publisher'], df['pub_year'], top=TOP_VALUE)
     end_time = time.time() - start_time
     print("Finished getting matches DataFrame in: ", end_time)
 
@@ -57,7 +57,7 @@ def analyze_file(file):
     final_data_frame = final_data_frame_min[matches_df[SIMILARITY_SCORE] < MAX_SIMILARITY_SCORE]
 
     # Sort values in DataFrame by similarity_score
-    sorted_final_df = final_data_frame.sort_values(by=SIMILARITY_SCORE, ascending=False)
+    sorted_final_df = final_data_frame.sort_values(by=SIMILARITY_SCORE, ascending=False).reset_index(drop=True)
 
     # Save final DataFrame to CSV
     sorted_final_df.to_csv(path_or_buf=RESULT_CSV_FILES_PATH + os.path.basename(file).split('.')[0] + ".csv")
@@ -98,7 +98,7 @@ def cosine_similarity(A, B, ntop, lower_bound=0):
     return csr_matrix((data, indices, indptr), shape=(M, N))
 
 
-def get_matches_df(sparse_matrix, name_vector, isbn, top=100):
+def get_matches_df(sparse_matrix, name_vector, isbn, author, publisher, pub_year, top=100):
     non_zeros = sparse_matrix.nonzero()
     sparserows = non_zeros[0]
     sparsecols = non_zeros[1]
@@ -113,17 +113,17 @@ def get_matches_df(sparse_matrix, name_vector, isbn, top=100):
     similairity = np.zeros(nr_matches)
 
     for index in range(0, nr_matches):
-        left_side[index] = name_vector[sparserows[index]] + " ; " + get_isbn_value(isbn[sparserows[index]])
-        right_side[index] = name_vector[sparsecols[index]] + " ; " + get_isbn_value(isbn[sparserows[index]])
+        left_side[index] = name_vector[sparserows[index]] + " ; " + get_value(isbn[sparserows[index]])  + " ; " +  get_value(publisher[sparserows[index]])  + " ; " +  get_value(pub_year[sparserows[index]])  + " ; " +  get_value(author[sparserows[index]])
+        right_side[index] = name_vector[sparsecols[index]] + " ; " + get_value(isbn[sparserows[index]])  + " ; " +  get_value(publisher[sparserows[index]])  + " ; " +  get_value(pub_year[sparserows[index]])  + " ; " +  get_value(author[sparserows[index]])
         similairity[index] = sparse_matrix.data[index]
 
-    return pd.DataFrame({'First entry (Title + ISBN)': left_side,
-                        'Second entry (Title + ISBN)': right_side,
+    return pd.DataFrame({'Pierwsza pozycja (Tytuł / ISBN / Wydawca / Rok / Autor)': left_side,
+                        'Druga pozycja (Tytuł / ISBN / Wydawca / Rok / Autor)': right_side,
                          SIMILARITY_SCORE: similairity})
 
 
-def get_isbn_value(isbn):
-    return '-' if is_nan(isbn) else str(isbn)
+def get_value(value):
+    return '-' if is_nan(value) else str(value)
 
 
 def is_nan(string):
